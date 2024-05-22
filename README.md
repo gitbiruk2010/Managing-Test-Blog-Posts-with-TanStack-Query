@@ -1,6 +1,6 @@
 # Blog Post Management App
 
-This is a React Native app for managing blog posts. It utilizes TanStack Query for data fetching, updating, and deleting operations. The app has a modern interface styled similar to Instagram and allows for filtering posts by user ID.
+This is a React Native app for managing blog posts. It utilizes TanStack Query for data fetching, updating, and deleting operations. The app has a modern interface styled and allows for filtering posts by user ID.
 ## Screenshots
 ![image](https://github.com/gitbiruk2010/Managing-Test-Blog-Posts-with-TanStack-Query/assets/103274295/e5030132-af82-4b53-8c1f-be0c86799f3f)
 
